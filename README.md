@@ -2,4 +2,6 @@
 
 Here's a short video of the GUI designed
 
-https://user-images.githubusercontent.com/78492723/201548673-7418bb7b-1a13-4a24-bb38-de077fb3df47.mp4
+
+https://user-images.githubusercontent.com/78492723/201549091-ec3f48a6-0783-4dd2-b217-3fd283daa220.mp4
+
